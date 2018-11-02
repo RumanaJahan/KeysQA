@@ -1,14 +1,14 @@
-# Best Practice with Selenium
-
-# Hybrid Framework has been used which is a hybrid of Behavior Driven Development and Data Driven Framework
-- Behavior Driven Development framework allows automation of functional validations in easily readable and 
-  understandable format for all the stake holders
-- Data Driven Framework retains the test data in external file database so that the same functionality can be 
-  tested with different test data sets
+# What we framework we're using here:
+## Hybrid Framework 
+  - ### Behavior Driven Development
+    - Allows automation of functional validations in easily readable and understandable format for all the stake holders
+  - ### Data Driven Framework
+    - It retains the test data in external file database so that the same functionality can be tested with different test data sets
 - Reusable
 - Reduced script maintenance
 - Portable
 
+# Best Practice with Selenium
 
 ## Be robust and portable 
   - Prefered selector order : id > name > css > xpath 
@@ -55,5 +55,5 @@ various selectors articles : why-jquery-in-selenium-css-locators-is-the-way-to-g
 
 ## Avoid hardcoding hosts
 
-Don’t rely on specific Driver implementation
+## Don’t rely on specific Driver implementation
 
