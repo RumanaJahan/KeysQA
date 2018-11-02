@@ -5,6 +5,9 @@
   understandable format for all the stake holders
 - Data Driven Framework retains the test data in external file database so that the same functionality can be 
   tested with different test data sets
+- Reusable
+- Reduced script maintenance
+- Portable
 
 
 ## Be robust and portable 
